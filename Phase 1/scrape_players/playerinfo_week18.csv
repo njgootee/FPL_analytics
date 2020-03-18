@@ -1,0 +1,234 @@
+Team,First Name,Last Name,Pos,Apps,Min,G,A,Sh90,KP90,xG,xA
+Manchester City,Ilkay,Gundogan,M,1,81,1,0,2.22,1.11,0.78,0.07
+Manchester City,Riyad,Mahrez,F,1,90,1,0,10.00,4.00,0.78,0.75
+Manchester City,Gabriel,Jesus,F,1,90,1,0,4.00,0.00,1.56,0.00
+Manchester City,Kevin,De Bruyne,M,1,90,0,1,4.00,7.00,0.23,1.10
+Manchester City,Nicolas,Otamendi,D,1,90,0,0,1.00,0.00,0.08,0.00
+Manchester City,Fernandinho,,D,1,90,0,0,0.00,0.00,0.00,0.00
+Manchester City,Raheem,Sterling,F,1,90,0,0,2.00,3.00,0.17,0.24
+Manchester City,Sergio,Aguero,S,1,1,0,0,0.00,0.00,0.00,0.00
+Manchester City,Kyle,Walker,D,1,90,0,0,0.00,1.00,0.00,0.11
+Manchester City,Rodri,,S,1,9,0,0,0.00,0.00,0.00,0.00
+Manchester City,Benjamin,Mendy,D,1,90,0,1,0.00,4.00,0.00,0.44
+Manchester City,Bernardo,Silva,M,1,90,0,0,0.00,1.00,0.00,0.06
+Manchester City,Ederson,,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Manchester City,Phil,Foden,S,1,1,0,0,0.00,0.00,0.00,0.00
+Leicester,Jamie,Vardy,F,1,90,1,0,2.00,1.00,0.44,0.53
+Leicester,Kasper,Schmeichel,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Leicester,Marc,Albrighton,S,1,24,0,0,0.00,0.00,0.00,0.00
+Leicester,Demarai,Gray,S,1,20,0,0,0.00,0.00,0.00,0.00
+Leicester,Ayoze,Perez,M,1,70,0,0,1.29,1.29,0.02,0.03
+Leicester,Ben,Chilwell,D,1,90,0,0,0.00,0.00,0.00,0.00
+Leicester,Jonny,Evans,D,1,90,0,0,0.00,0.00,0.00,0.00
+Leicester,Dennis,Praet,S,1,11,0,0,0.00,0.00,0.00,0.00
+Leicester,Ricardo,Pereira,D,1,90,0,0,0.00,0.00,0.00,0.00
+Leicester,Caglar,Soyuncu,D,1,90,0,0,0.00,0.00,0.00,0.00
+Leicester,Wilfred,Ndidi,M,1,90,0,0,0.00,0.00,0.00,0.00
+Leicester,Youri,Tielemans,M,1,79,0,0,0.00,1.14,0.00,0.02
+Leicester,Harvey,Barnes,M,1,66,0,1,1.36,1.36,0.53,0.26
+Leicester,James,Maddison,M,1,90,0,0,1.00,1.00,0.03,0.18
+Chelsea,Willian,,M,1,90,2,0,2.00,5.00,0.81,0.36
+Chelsea,Cesar,Azpilicueta,M,1,84,0,0,0.00,0.00,0.00,0.00
+Chelsea,Tammy,Abraham,F,1,84,0,0,3.21,0.00,0.18,0.00
+Chelsea,Fikayo,Tomori,D,1,90,0,0,0.00,0.00,0.00,0.00
+Chelsea,N'Golo,Kante,M,1,90,0,0,1.00,1.00,0.02,0.03
+Chelsea,Kurt,Zouma,D,1,90,0,0,0.00,0.00,0.00,0.00
+Chelsea,Jorginho,,S,1,18,0,0,0.00,5.00,0.00,0.02
+Chelsea,Marcos,Alonso,M,1,90,0,0,2.00,1.00,0.09,0.07
+Chelsea,Michy,Batshuayi,S,1,6,0,0,15.00,0.00,0.08,0.00
+Chelsea,Antonio,Rudiger,D,1,90,0,0,1.00,0.00,0.01,0.00
+Chelsea,Mateo,Kovacic,M,1,72,0,1,0.00,1.25,0.00,0.05
+Chelsea,Kepa,,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Chelsea,Mason,Mount,M,1,90,0,0,2.00,1.00,0.18,0.08
+Chelsea,Reece,James,S,1,6,0,0,15.00,0.00,0.12,0.00
+Manchester United,David,de Gea,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Manchester United,Anthony,Martial,F,1,90,0,0,3.00,3.00,0.20,0.93
+Manchester United,Juan,Mata,S,1,17,0,0,5.29,5.29,0.07,0.04
+Manchester United,Marcus,Rashford,M,1,90,0,0,2.00,3.00,0.39,0.09
+Manchester United,Jesse,Lingard,M,1,65,0,0,2.77,0.00,0.33,0.00
+Manchester United,Luke,Shaw,D,1,90,0,0,0.00,1.00,0.00,0.04
+Manchester United,Harry,Maguire,D,1,90,0,0,1.00,0.00,0.04,0.00
+Manchester United,Paul,Pogba,S,1,25,0,0,7.20,3.60,0.29,0.05
+Manchester United,Scott,McTominay,M,1,73,0,0,4.93,0.00,0.12,0.00
+Manchester United,Aaron,Wan-Bissaka,D,1,90,0,0,0.00,0.00,0.00,0.00
+Manchester United,Daniel,James,M,1,59,0,0,0.00,1.53,0.00,0.08
+Manchester United,Victor,Lindelof,D,1,90,0,0,0.00,0.00,0.00,0.00
+Manchester United,Fred,,M,1,90,0,0,0.00,4.00,0.00,0.16
+Manchester United,Mason,Greenwood,S,1,31,0,0,5.81,0.00,0.10,0.00
+Wolverhampton Wanderers,Romain,Saiss,D,1,90,1,0,1.00,0.00,0.38,0.00
+Wolverhampton Wanderers,Raul,Jimenez,F,1,90,1,0,4.00,2.00,0.53,0.09
+Wolverhampton Wanderers,Adama,Traore,F,1,90,0,0,3.00,4.00,0.16,0.31
+Wolverhampton Wanderers,Jonny,,M,1,90,0,0,0.00,0.00,0.00,0.00
+Wolverhampton Wanderers,Joao,Moutinho,M,1,90,0,1,1.00,1.00,0.02,0.38
+Wolverhampton Wanderers,Patrick,Cutrone,S,1,1,0,0,0.00,0.00,0.00,0.00
+Wolverhampton Wanderers,Pedro,Neto,S,1,12,0,0,7.50,7.50,0.06,0.45
+Wolverhampton Wanderers,Rui,Patricio,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Wolverhampton Wanderers,Conor,Coady,D,1,90,0,0,0.00,0.00,0.00,0.00
+Wolverhampton Wanderers,Matt,Doherty,M,1,90,0,0,2.00,2.00,0.53,0.08
+Wolverhampton Wanderers,Ruben,Neves,M,1,90,0,0,1.00,1.00,0.01,0.07
+Wolverhampton Wanderers,Diogo,Jota,F,1,78,0,0,1.15,0.00,0.12,0.00
+Wolverhampton Wanderers,Leander,Dendoncker,D,1,90,0,0,0.00,0.00,0.00,0.00
+Sheffield United,Oliver,McBurnie,F,1,64,1,0,1.41,0.00,0.43,0.00
+Sheffield United,Muhamed,Besic,S,1,7,0,0,0.00,0.00,0.00,0.00
+Sheffield United,Lys,Mousset,S,1,26,0,0,3.46,0.00,0.05,0.00
+Sheffield United,Dean,Henderson,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Sheffield United,John,Egan,D,1,90,0,0,1.00,0.00,0.04,0.00
+Sheffield United,Chris,Basham,D,1,90,0,0,0.00,0.00,0.00,0.00
+Sheffield United,Jack,O'Connell,D,1,90,0,0,0.00,0.00,0.00,0.00
+Sheffield United,George,Baldock,M,1,90,0,0,0.00,1.00,0.00,0.05
+Sheffield United,Enda,Stevens,M,1,90,0,0,0.00,2.00,0.00,0.17
+Sheffield United,John,Lundstram,M,1,90,0,0,1.00,0.00,0.05,0.00
+Sheffield United,Oliver,Norwood,M,1,83,0,0,0.00,1.08,0.00,0.04
+Sheffield United,David,McGoldrick,F,1,90,0,0,3.00,0.00,1.10,0.00
+Sheffield United,Luke,Freeman,M,1,54,0,0,0.00,0.00,0.00,0.00
+Sheffield United,Ben,Osborn,S,1,36,0,0,0.00,2.50,0.00,0.40
+Burnley,Jay,Rodriguez,S,1,12,1,0,7.50,0.00,0.13,0.00
+Burnley,Aaron,Lennon,S,1,22,0,0,0.00,0.00,0.00,0.00
+Burnley,Ashley,Westwood,M,1,90,0,1,0.00,1.00,0.00,0.13
+Burnley,Jack,Cork,M,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,Robbie,Brady,S,1,5,0,0,0.00,0.00,0.00,0.00
+Burnley,Phil,Bardsley,D,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,Ben,Mee,D,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,James,Tarkowski,D,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,Jeff,Hendrick,M,1,68,0,0,0.00,0.00,0.00,0.00
+Burnley,Ashley,Barnes,F,1,78,0,0,1.15,0.00,0.01,0.00
+Burnley,Chris,Wood,F,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,Nick,Pope,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,Charlie,Taylor,D,1,90,0,0,0.00,0.00,0.00,0.00
+Burnley,Dwight,McNeil,M,1,85,0,0,0.00,0.00,0.00,0.00
+Arsenal,Bernd,Leno,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Arsenal,Granit,Xhaka,M,1,90,0,0,0.00,0.00,0.00,0.00
+Arsenal,Pierre-Emerick,Aubameyang,F,1,80,0,0,3.38,0.00,0.80,0.00
+Arsenal,Calum,Chambers,D,1,90,0,0,1.00,1.00,0.01,0.63
+Arsenal,Lucas,Torreira,M,1,90,0,0,0.00,1.00,0.00,0.10
+Arsenal,David,Luiz,D,1,90,0,0,0.00,0.00,0.00,0.00
+Arsenal,Ainsley,Maitland-Niles,D,1,90,0,0,0.00,1.00,0.00,0.07
+Arsenal,Alexandre,Lacazette,S,1,10,0,0,0.00,0.00,0.00,0.00
+Arsenal,Reiss,Nelson,M,1,90,0,0,0.00,1.00,0.00,0.01
+Arsenal,Joe,Willock,S,1,22,0,0,0.00,4.09,0.00,0.02
+Arsenal,Emile,Smith-Rowe,M,1,68,0,0,0.00,0.00,0.00,0.00
+Arsenal,Bukayo,Saka,D,1,90,0,0,0.00,0.00,0.00,0.00
+Arsenal,Gabriel,Martinelli,M,1,90,0,0,2.00,0.00,0.08,0.00
+Everton,Alex,Iwobi,M,1,10,0,0,0.00,0.00,0.00,0.00
+Everton,Gylfi,Sigurdsson,M,1,90,0,0,2.00,0.00,0.09,0.00
+Everton,Jordan,Pickford,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Everton,Fabian,Delph,M,1,74,0,0,0.00,0.00,0.00,0.00
+Everton,Mason,Holgate,D,1,90,0,0,0.00,0.00,0.00,0.00
+Everton,Tom,Davies,M,1,90,0,0,1.00,1.00,0.02,0.14
+Everton,Moise,Kean,S,1,8,0,0,0.00,0.00,0.00,0.00
+Everton,Michael,Keane,S,1,16,0,0,0.00,0.00,0.00,0.00
+Everton,Lucas,Digne,D,1,90,0,0,0.00,1.00,0.00,0.06
+Everton,Djibril,Sidibe,D,1,90,0,0,0.00,0.00,0.00,0.00
+Everton,Dominic,Calvert-Lewin,F,1,90,0,0,1.00,0.00,0.06,0.00
+Everton,Richarlison,,F,1,90,0,0,2.00,2.00,0.11,0.07
+Everton,Cenk,Tosun,S,1,72,0,0,2.50,0.00,0.16,0.00
+Everton,Yerry,Mina,D,1,90,0,0,1.00,1.00,0.05,0.05
+Crystal Palace,Max,Meyer,S,1,4,0,0,22.50,0.00,0.08,0.00
+Crystal Palace,Wilfried,Zaha,F,1,90,0,0,1.00,1.00,0.08,0.13
+Crystal Palace,Martin,Kelly,D,1,90,0,0,0.00,0.00,0.00,0.00
+Crystal Palace,James,Tomkins,D,1,90,0,0,0.00,0.00,0.00,0.00
+Crystal Palace,Cheikhou,Kouyate,D,1,90,0,0,1.00,0.00,0.02,0.00
+Crystal Palace,James,McCarthy,M,1,90,0,0,1.00,0.00,0.02,0.00
+Crystal Palace,Christian,Benteke,F,1,90,0,0,3.00,1.00,0.31,0.08
+Crystal Palace,James,McArthur,M,1,86,0,0,4.19,1.05,0.36,0.02
+Crystal Palace,Jordan,Ayew,F,1,90,0,0,1.00,4.00,0.02,0.23
+Crystal Palace,Patrick,van Aanholt,D,1,90,0,0,1.00,5.00,0.02,0.38
+Crystal Palace,Vicente,Guaita,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Crystal Palace,Luka,Milivojevic,M,1,90,0,0,3.00,2.00,0.08,0.09
+Southampton,Danny,Ings,F,1,90,2,0,3.00,1.00,0.80,0.04
+Southampton,Jack,Stephens,D,1,90,1,0,1.00,1.00,0.05,0.15
+Southampton,Pierre-Emile,Hjbjerg,M,1,90,0,0,4.00,1.00,0.59,0.13
+Southampton,Alex,McCarthy,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Southampton,Nathan,Redmond,M,1,90,0,0,1.00,2.00,0.12,0.08
+Southampton,Ryan,Bertrand,D,1,90,0,0,1.00,2.00,0.07,0.75
+Southampton,Shane,Long,F,1,86,0,0,3.14,1.05,0.84,0.12
+Southampton,Oriol,Romeu,S,1,10,0,0,0.00,0.00,0.00,0.00
+Southampton,James,Ward-Prowse,M,1,90,0,1,2.00,1.00,0.10,0.05
+Southampton,Cedric,Soares,D,1,90,0,0,1.00,0.00,0.04,0.00
+Southampton,Jan,Bednarek,D,1,90,0,0,1.00,0.00,0.13,0.00
+Southampton,Michael,Obafemi,S,1,4,0,0,0.00,0.00,0.00,0.00
+Southampton,Stuart,Armstrong,M,1,80,0,0,0.00,0.00,0.00,0.00
+Southampton,Che,Adams,S,1,1,0,0,0.00,0.00,0.00,0.00
+Newcastle United,Miguel,Almiron,M,1,90,1,0,2.00,0.00,0.56,0.00
+Newcastle United,Fabian,Schar,D,1,90,0,0,0.00,1.00,0.00,0.01
+Newcastle United,Joelinton,,F,1,77,0,0,1.17,0.00,0.07,0.00
+Newcastle United,Andy,Carroll,F,1,90,0,0,2.00,1.00,0.04,0.02
+Newcastle United,Federico,Fernandez,D,1,90,0,0,0.00,0.00,0.00,0.00
+Newcastle United,DeAndre,Yedlin,S,1,1,0,0,0.00,0.00,0.00,0.00
+Newcastle United,Dwight,Gayle,S,1,13,0,0,0.00,0.00,0.00,0.00
+Newcastle United,Jonjo,Shelvey,M,1,90,0,0,2.00,1.00,0.03,0.01
+Newcastle United,Paul,Dummett,M,1,90,0,0,0.00,3.00,0.00,0.19
+Newcastle United,Javier,Manquillo,M,1,90,0,0,0.00,0.00,0.00,0.00
+Newcastle United,Florian,Lejeune,D,1,90,0,0,1.00,0.00,0.01,0.00
+Newcastle United,Isaac,Hayden,M,1,64,0,0,0.00,0.00,0.00,0.00
+Newcastle United,Martin,Dubravka,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Newcastle United,Sean,Longstaff,S,1,26,0,0,0.00,0.00,0.00,0.00
+Brighton,Pascal,Gro,M,1,47,0,0,0.00,0.00,0.00,0.00
+Brighton,Glenn,Murray,S,1,43,0,0,0.00,0.00,0.00,0.00
+Brighton,Martin,Montoya,D,1,57,0,0,0.00,3.16,0.00,0.11
+Brighton,Mat,Ryan,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Brighton,Neal,Maupay,F,1,90,0,0,1.00,0.00,0.03,0.00
+Brighton,Yves,Bissouma,S,1,33,0,0,2.73,0.00,0.02,0.00
+Brighton,Aaron,Mooy,M,1,90,0,0,1.00,2.00,0.08,0.12
+Brighton,Lewis,Dunk,D,1,90,0,0,2.00,0.00,0.15,0.00
+Brighton,Davy,Propper,M,1,90,0,0,1.00,0.00,0.04,0.00
+Brighton,Dale,Stephens,M,1,90,0,0,0.00,1.00,0.00,0.04
+Brighton,Dan,Burn,D,1,90,0,0,0.00,1.00,0.00,0.04
+Brighton,Leandro,Trossard,M,1,47,0,0,0.00,0.00,0.00,0.00
+Brighton,Adam,Webster,D,1,90,0,0,1.00,0.00,0.03,0.00
+Brighton,Aaron,Connolly,S,1,43,0,0,4.19,0.00,0.07,0.00
+Watford,Troy,Deeney,F,1,90,1,0,5.00,0.00,1.17,0.00
+Watford,Ismaila,Sarr,M,1,88,1,0,2.05,0.00,0.22,0.00
+Watford,Adrian,Mariappa,D,1,90,0,0,0.00,1.00,0.00,0.13
+Watford,Etienne,Capoue,M,1,78,0,0,0.00,0.00,0.00,0.00
+Watford,Craig,Cathcart,D,1,90,0,0,0.00,0.00,0.00,0.00
+Watford,Gerard,Deulofeu,M,1,90,0,0,1.00,1.00,0.12,0.14
+Watford,Ben,Foster,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Watford,Nathaniel,Chalobah,S,1,20,0,0,0.00,0.00,0.00,0.00
+Watford,Roberto,Pereyra,S,1,12,0,0,0.00,7.50,0.00,0.03
+Watford,Isaac,Success,S,1,2,0,0,0.00,0.00,0.00,0.00
+Watford,Christian,Kabasele,D,1,90,0,1,0.00,1.00,0.00,0.07
+Watford,Abdoulaye,Doucoure,M,1,70,0,0,1.29,0.00,0.03,0.00
+Watford,Kiko,Femenia,D,1,90,0,0,1.00,1.00,0.03,0.03
+Watford,Will,Hughes,M,1,90,0,0,1.00,1.00,0.03,0.04
+Bournemouth,Simon,Francis,D,1,90,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Dan,Gosling,M,1,90,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Joshua,King,F,1,90,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Callum,Wilson,S,1,41,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Dominic,Solanke,S,1,1,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Ryan,Fraser,M,1,90,0,0,0.00,1.00,0.00,0.10
+Bournemouth,Lewis,Cook,M,1,49,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Jefferson,Lerma,M,1,90,0,0,2.00,0.00,0.04,0.00
+Bournemouth,Diego,Rico,D,1,90,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Aaron,Ramsdale,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Philip,Billing,M,1,89,0,0,0.00,0.00,0.00,0.00
+Bournemouth,Chris,Mepham,D,1,90,0,0,1.00,0.00,0.10,0.00
+Bournemouth,Jack,Stacey,D,1,90,0,0,0.00,1.00,0.00,0.02
+Aston Villa,Jack,Grealish,F,1,90,1,0,3.00,7.00,0.11,0.16
+Aston Villa,Matt,Targett,D,1,90,0,0,0.00,2.00,0.00,0.30
+Aston Villa,Tom,Heaton,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Aston Villa,Frederic,Guilbert,D,1,90,0,0,1.00,0.00,0.02,0.00
+Aston Villa,Anwar,El Ghazi,F,1,72,0,0,1.25,2.50,0.29,0.12
+Aston Villa,Douglas,Luiz,M,1,90,0,0,4.00,1.00,0.08,0.01
+Aston Villa,Kortney,Hause,D,1,90,0,0,0.00,0.00,0.00,0.00
+Aston Villa,Bjorn,Engels,D,1,90,0,0,2.00,0.00,0.04,0.00
+Aston Villa,Conor,Hourihane,M,1,60,0,0,1.50,0.00,0.02,0.00
+Aston Villa,Trezeguet,,S,1,18,0,0,15.00,5.00,0.14,0.07
+Aston Villa,John,McGinn,M,1,7,0,0,0.00,0.00,0.00,0.00
+Aston Villa,Wesley,,F,1,90,0,0,4.00,0.00,0.24,0.00
+Aston Villa,Jonathan,Kodjia,S,1,30,0,0,0.00,3.00,0.00,0.08
+Aston Villa,Marvelous,Nakamba,S,1,83,0,0,0.00,1.08,0.00,0.01
+Norwich,Todd,Cantwell,M,1,88,1,0,1.02,0.00,0.07,0.00
+Norwich,Mario,Vrancic,S,1,3,0,0,0.00,0.00,0.00,0.00
+Norwich,Alexander,Tettey,M,1,88,0,0,2.05,0.00,0.04,0.00
+Norwich,Sam,Byram,D,1,90,0,0,0.00,0.00,0.00,0.00
+Norwich,Tim,Krul,GK,1,90,0,0,0.00,0.00,0.00,0.00
+Norwich,Emiliano,Buendia,M,1,90,0,0,1.00,9.00,0.03,1.06
+Norwich,Max,Aarons,D,1,90,0,0,0.00,0.00,0.00,0.00
+Norwich,Grant,Hanley,D,1,90,0,0,1.00,0.00,0.04,0.00
+Norwich,Tom,Trybull,M,1,87,0,0,0.00,0.00,0.00,0.00
+Norwich,Kenny,McLean,M,1,90,0,0,2.00,0.00,0.20,0.00
+Norwich,Teemu,Pukki,F,1,90,0,0,5.00,0.00,0.86,0.00
+Norwich,Onel,Hernandez,S,1,2,0,0,0.00,0.00,0.00,0.00
+Norwich,Dennis,Srbeny,S,1,2,0,0,0.00,0.00,0.00,0.00
+Norwich,Christoph,Zimmermann,D,1,90,0,0,1.00,0.00,0.03,0.00
