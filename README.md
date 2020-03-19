@@ -5,6 +5,7 @@ Users manage a team of Premier League players, whose performances in real-life f
 Users have restrictions on budget, team formation, and transfers. Users compete in various leaderboards, the most 
 prestigious being overall-rank; a leaderboard with all 6 million+ users competing for glory and prizes.
 
+![Image of workflow](https://github.com/CS-UCR/cs105-prj-phase3-yeah-nah/mindmap.png)
 ## Phase 1
 ### Data Obtained
 * API: https://fantasy.premierleague.com/api/bootstrap-static/ (API for FPL data)
@@ -21,7 +22,7 @@ FPL team, this would incorporate all facets of team management, including transf
 A complete machine learning algorithm for team management might be out of the scope of this project,
 considering time and difficulty constraints. However, facets of such an algorithm could be developed.
 
-## API
+### API
 Data was obtained from the above FPL API link. Relevant datasets were created. The data was obtained with a simple python function using pandas, requests and json libraries. The data can be retrieved by running apiretrieve.py 
 
 * `events`: dataset provides information on each FPL gameweek. This includes data on most captained, most transferred and highest scoring player, as well as other useful information.
@@ -30,7 +31,7 @@ Data was obtained from the above FPL API link. Relevant datasets were created. T
 
 * `teams`: dataset provides information on EPL teams. Useful information in this dataset is rankings of attack/defence/overall strength while at home or away.
 
-## Scraping/Crawling
+### Scraping/Crawling
 
 The data obtained from crawling the English Premier League's official website (link provided above). The selenium web crawling software was used along with BeautifulSoup web scraping techinueqes to gather two datasets for this portion of the project. Some knowledge of HTML/CSS and XPath commands were needed for accessing the links and data that was provided in the webpaged scraped from.
 The two data sets were: 
