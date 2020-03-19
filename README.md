@@ -5,7 +5,7 @@ Users manage a team of Premier League players, whose performances in real-life f
 Users have restrictions on budget, team formation, and transfers. Users compete in various leaderboards, the most 
 prestigious being overall-rank; a leaderboard with all 6 million+ users competing for glory and prizes.
 
-![Image of workflow](https://github.com/CS-UCR/cs105-prj-phase3-yeah-nah/mindmap.png)
+![Image of workflow](https://github.com/CS-UCR/cs105-prj-phase3-yeah-nah/blob/master/mindmap.png)
 ## Phase 1
 ### Data Obtained
 * API: https://fantasy.premierleague.com/api/bootstrap-static/ (API for FPL data)
