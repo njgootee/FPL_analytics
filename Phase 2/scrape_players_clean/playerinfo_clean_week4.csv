@@ -1,0 +1,263 @@
+,Team,First Name,Last Name,Pos,Apps,Min,G,A,Sh90,KP90,xG,xA,name,gw
+0,Liverpool,Roberto,Firmino,F,1,86,1,1,5.23,2.09,0.43,0.34,Roberto Firmino,4
+1,Liverpool,Sadio,Mane,F,1,86,1,0,2.09,1.05,0.37,0.06,Sadio Mane,4
+2,Liverpool,Joel,Matip,D,1,90,0,0,0.0,0.0,0.0,0.0,Joel Matip,4
+3,Liverpool,Divock,Origi,S,1,4,0,0,0.0,0.0,0.0,0.0,Divock Origi,4
+4,Liverpool,Adrian,,GK,1,90,0,0,0.0,0.0,0.0,0.0,Adrian,4
+5,Liverpool,Jordan,Henderson,M,1,72,0,0,0.0,2.5,0.0,0.12,Jordan Henderson,4
+6,Liverpool,Georginio,Wijnaldum,M,1,90,0,0,1.0,1.0,0.03,0.02,Georginio Wijnaldum,4
+7,Liverpool,Virgil,van Dijk,D,1,90,0,0,1.0,0.0,0.01,0.0,Virgil van Dijk,4
+8,Liverpool,Xherdan,Shaqiri,S,1,4,0,0,22.5,0.0,0.02,0.0,Xherdan Shaqiri,4
+9,Liverpool,Alex,Oxlade-Chamberlain,S,1,18,0,0,5.0,0.0,0.08,0.0,Alex Oxlade-Chamberlain,4
+10,Liverpool,Mohamed,Salah,F,1,90,0,1,3.0,4.0,0.25,0.2,Mohamed Salah,4
+11,Liverpool,Andrew,Robertson,D,1,90,0,0,0.0,0.0,0.0,0.0,Andrew Robertson,4
+12,Liverpool,Trent,Alexander-Arnold,D,1,90,0,0,0.0,3.0,0.0,0.16,Trent Alexander-Arnold,4
+13,Liverpool,Fabinho,,M,1,90,0,0,1.0,1.0,0.01,0.1,Fabinho,4
+14,Manchester City,Sergio,Aguero,F,1,90,2,1,5.0,2.0,0.46,0.34,Sergio Aguero,4
+15,Manchester City,Kevin,De Bruyne,M,1,73,1,1,4.93,2.47,0.7,0.16,Kevin De Bruyne,4
+16,Manchester City,Bernardo,Silva,S,1,8,1,0,11.25,0.0,0.27,0.0,Bernardo Silva,4
+17,Manchester City,Ilkay,Gundogan,S,1,17,0,0,5.29,0.0,0.08,0.0,Ilkay Gundogan,4
+18,Manchester City,Nicolas,Otamendi,D,1,90,0,0,0.0,0.0,0.0,0.0,Nicolas Otamendi,4
+19,Manchester City,Fernandinho,,S,1,54,0,0,0.0,0.0,0.0,0.0,Fernandinho,4
+20,Manchester City,David,Silva,M,1,82,0,2,1.1,3.29,0.58,0.65,David Silva,4
+21,Manchester City,Raheem,Sterling,F,1,90,0,0,0.0,1.0,0.0,0.58,Raheem Sterling,4
+22,Manchester City,Kyle,Walker,D,1,90,0,0,0.0,0.0,0.0,0.0,Kyle Walker,4
+23,Manchester City,Riyad,Mahrez,F,1,90,0,0,2.0,5.0,0.18,0.39,Riyad Mahrez,4
+24,Manchester City,Rodri,,M,1,90,0,0,0.0,2.0,0.0,0.11,Rodri,4
+25,Manchester City,Aymeric,Laporte,D,1,36,0,0,0.0,0.0,0.0,0.0,Aymeric Laporte,4
+26,Manchester City,Oleksandr,Zinchenko,D,1,90,0,0,1.0,0.0,0.04,0.0,Oleksandr Zinchenko,4
+27,Manchester City,Ederson,,GK,1,90,0,0,0.0,0.0,0.0,0.0,Ederson,4
+28,Leicester,Jamie,Vardy,F,1,90,2,1,3.0,1.0,0.67,0.64,Jamie Vardy,4
+29,Leicester,Youri,Tielemans,M,1,90,1,1,4.0,2.0,0.69,0.54,Youri Tielemans,4
+30,Leicester,Kasper,Schmeichel,GK,1,90,0,0,0.0,0.0,0.0,0.0,Kasper Schmeichel,4
+31,Leicester,Christian,Fuchs,S,1,1,0,0,0.0,0.0,0.0,0.0,Christian Fuchs,4
+32,Leicester,Marc,Albrighton,M,1,67,0,0,1.34,2.69,0.03,0.08,Marc Albrighton,4
+33,Leicester,Demarai,Gray,S,1,23,0,0,7.83,3.91,0.26,0.45,Demarai Gray,4
+34,Leicester,Ben,Chilwell,D,1,90,0,1,0.0,2.0,0.0,0.26,Ben Chilwell,4
+35,Leicester,Jonny,Evans,D,1,90,0,0,0.0,0.0,0.0,0.0,Jonny Evans,4
+36,Leicester,Ricardo,Pereira,D,1,90,0,0,0.0,1.0,0.0,0.02,Ricardo Pereira,4
+37,Leicester,Caglar,Soyuncu,D,1,90,0,0,1.0,0.0,0.03,0.0,Caglar Soyuncu,4
+38,Leicester,Wilfred,Ndidi,M,1,90,0,0,0.0,2.0,0.0,0.05,Wilfred Ndidi,4
+39,Leicester,Hamza,Choudhury,S,1,16,0,0,0.0,0.0,0.0,0.0,Hamza Choudhury,4
+40,Leicester,Harvey,Barnes,M,1,74,0,0,1.22,1.22,0.05,0.03,Harvey Barnes,4
+41,Leicester,James,Maddison,M,1,89,0,0,3.03,2.02,0.53,0.06,James Maddison,4
+42,Chelsea,Tammy,Abraham,F,1,85,2,0,4.24,4.24,1.28,0.75,Tammy Abraham,4
+43,Chelsea,Ross,Barkley,M,1,61,0,0,5.9,0.0,0.2,0.0,Ross Barkley,4
+44,Chelsea,Cesar,Azpilicueta,D,1,90,0,0,0.0,2.0,0.0,0.41,Cesar Azpilicueta,4
+45,Chelsea,Willian,,S,1,29,0,0,0.0,0.0,0.0,0.0,Willian,4
+46,Chelsea,Fikayo,Tomori,D,1,90,0,0,0.0,1.0,0.0,0.05,Fikayo Tomori,4
+47,Chelsea,Kurt,Zouma,D,1,90,0,0,1.0,0.0,0.03,0.0,Kurt Zouma,4
+48,Chelsea,Emerson,,D,1,90,0,0,0.0,0.0,0.0,0.0,Emerson,4
+49,Chelsea,Jorginho,,M,1,90,0,0,0.0,1.0,0.0,0.09,Jorginho,4
+50,Chelsea,Michy,Batshuayi,S,1,6,0,0,0.0,0.0,0.0,0.0,Michy Batshuayi,4
+51,Chelsea,Mateo,Kovacic,M,1,84,0,0,1.07,0.0,0.11,0.0,Mateo Kovacic,4
+52,Chelsea,Christian,Pulisic,F,1,90,0,0,1.0,0.0,0.57,0.0,Christian Pulisic,4
+53,Chelsea,Kepa,,GK,1,90,0,0,0.0,0.0,0.0,0.0,Kepa,4
+54,Chelsea,Mason,Mount,F,1,90,0,0,2.0,1.0,0.12,0.03,Mason Mount,4
+55,Chelsea,Billy,Gilmour,S,1,5,0,0,0.0,0.0,0.0,0.0,Billy Gilmour,4
+56,Manchester United,Daniel,James,M,1,90,1,0,5.0,2.0,0.25,0.4,Daniel James,4
+57,Manchester United,David,de Gea,GK,1,90,0,0,0.0,0.0,0.0,0.0,David de Gea,4
+58,Manchester United,Juan,Mata,M,1,70,0,0,1.29,3.86,0.05,0.14,Juan Mata,4
+59,Manchester United,Marcus,Rashford,F,1,90,0,0,6.0,2.0,0.98,0.1,Marcus Rashford,4
+60,Manchester United,Jesse,Lingard,S,1,20,0,0,9.0,4.5,0.04,0.01,Jesse Lingard,4
+61,Manchester United,Ashley,Young,D,1,90,0,0,1.0,1.0,0.02,0.02,Ashley Young,4
+62,Manchester United,Nemanja,Matic,S,1,20,0,0,9.0,0.0,0.11,0.0,Nemanja Matic,4
+63,Manchester United,Andreas,Pereira,M,1,70,0,0,1.29,0.0,0.1,0.0,Andreas Pereira,4
+64,Manchester United,Harry,Maguire,D,1,90,0,0,0.0,1.0,0.0,0.03,Harry Maguire,4
+65,Manchester United,Paul,Pogba,M,1,90,0,0,0.0,4.0,0.0,0.28,Paul Pogba,4
+66,Manchester United,Scott,McTominay,M,1,84,0,1,1.07,2.14,0.02,0.36,Scott McTominay,4
+67,Manchester United,Aaron,Wan-Bissaka,D,1,90,0,0,1.0,1.0,0.3,0.1,Aaron Wan-Bissaka,4
+68,Manchester United,Victor,Lindelof,D,1,90,0,0,0.0,1.0,0.0,0.28,Victor Lindelof,4
+69,Manchester United,Mason,Greenwood,S,1,6,0,0,15.0,0.0,0.03,0.0,Mason Greenwood,4
+70,Wolverhampton Wanderers,Romain,Saiss,M,1,61,1,0,2.95,0.0,1.05,0.0,Romain Saiss,4
+71,Wolverhampton Wanderers,Raul,Jimenez,F,1,90,1,0,2.0,0.0,0.5,0.0,Raul Jimenez,4
+72,Wolverhampton Wanderers,Ryan,Bennett,D,1,90,0,0,0.0,1.0,0.0,0.03,Ryan Bennett,4
+73,Wolverhampton Wanderers,Adama,Traore,M,1,90,0,0,0.0,0.0,0.0,0.0,Adama Traore,4
+74,Wolverhampton Wanderers,Joao,Moutinho,S,1,29,0,0,0.0,0.0,0.0,0.0,Joao Moutinho,4
+75,Wolverhampton Wanderers,Patrick,Cutrone,F,1,70,0,0,3.86,1.29,0.42,0.46,Patrick Cutrone,4
+76,Wolverhampton Wanderers,Pedro,Neto,S,1,4,0,0,0.0,0.0,0.0,0.0,Pedro Neto,4
+77,Wolverhampton Wanderers,Rui,Patricio,GK,1,90,0,0,0.0,0.0,0.0,0.0,Rui Patricio,4
+78,Wolverhampton Wanderers,Willy,Boly,D,1,90,0,1,0.0,2.0,0.0,0.8,Willy Boly,4
+79,Wolverhampton Wanderers,Conor,Coady,D,1,90,0,0,0.0,1.0,0.0,0.03,Conor Coady,4
+80,Wolverhampton Wanderers,Ruben,Neves,M,1,86,0,0,1.05,0.0,0.03,0.0,Ruben Neves,4
+81,Wolverhampton Wanderers,Diogo,Jota,S,1,20,0,0,0.0,0.0,0.0,0.0,Diogo Jota,4
+82,Wolverhampton Wanderers,Ruben,Vinagre,M,1,90,0,0,0.0,0.0,0.0,0.0,Ruben Vinagre,4
+83,Wolverhampton Wanderers,Leander,Dendoncker,M,1,90,0,0,0.0,0.0,0.0,0.0,Leander Dendoncker,4
+84,Sheffield United,Callum,Robinson,F,1,90,1,0,4.0,0.0,0.96,0.0,Callum Robinson,4
+85,Sheffield United,Oliver,McBurnie,F,1,64,0,0,0.0,1.41,0.0,0.05,Oliver McBurnie,4
+86,Sheffield United,Lys,Mousset,S,1,10,0,0,0.0,9.0,0.0,0.03,Lys Mousset,4
+87,Sheffield United,Dean,Henderson,GK,1,90,0,0,0.0,0.0,0.0,0.0,Dean Henderson,4
+88,Sheffield United,John,Egan,D,1,90,0,0,0.0,0.0,0.0,0.0,John Egan,4
+89,Sheffield United,Chris,Basham,D,1,85,0,0,1.06,1.06,0.03,0.42,Chris Basham,4
+90,Sheffield United,Jack,O'Connell,D,1,90,0,0,0.0,0.0,0.0,0.0,Jack O'Connell,4
+91,Sheffield United,George,Baldock,M,1,90,0,0,0.0,0.0,0.0,0.0,George Baldock,4
+92,Sheffield United,Enda,Stevens,M,1,90,0,1,1.0,1.0,0.03,0.36,Enda Stevens,4
+93,Sheffield United,John,Lundstram,M,1,90,0,0,0.0,0.0,0.0,0.0,John Lundstram,4
+94,Sheffield United,Oliver,Norwood,M,1,90,0,0,1.0,1.0,0.02,0.02,Oliver Norwood,4
+95,Sheffield United,David,McGoldrick,S,1,26,0,0,0.0,0.0,0.0,0.0,David McGoldrick,4
+96,Sheffield United,Luke,Freeman,M,1,80,0,0,1.13,1.13,0.02,0.02,Luke Freeman,4
+97,Sheffield United,Ben,Osborn,S,1,5,0,0,0.0,18.0,0.0,0.13,Ben Osborn,4
+98,Burnley,Aaron,Lennon,M,1,90,0,0,0.0,0.0,0.0,0.0,Aaron Lennon,4
+99,Burnley,Ashley,Westwood,M,1,90,0,0,0.0,1.0,0.0,0.36,Ashley Westwood,4
+100,Burnley,Jack,Cork,M,1,90,0,0,0.0,2.0,0.0,0.04,Jack Cork,4
+101,Burnley,Jay,Rodriguez,S,1,16,0,0,5.63,0.0,0.36,0.0,Jay Rodriguez,4
+102,Burnley,Erik,Pieters,D,1,90,0,0,0.0,0.0,0.0,0.0,Erik Pieters,4
+103,Burnley,Matthew,Lowton,D,1,90,0,0,0.0,1.0,0.0,0.05,Matthew Lowton,4
+104,Burnley,Ben,Mee,D,1,90,0,0,0.0,0.0,0.0,0.0,Ben Mee,4
+105,Burnley,James,Tarkowski,D,1,90,0,0,1.0,0.0,0.06,0.0,James Tarkowski,4
+106,Burnley,Ashley,Barnes,F,1,74,0,0,2.43,0.0,0.11,0.0,Ashley Barnes,4
+107,Burnley,Chris,Wood,F,1,90,0,0,1.0,1.0,0.05,0.08,Chris Wood,4
+108,Burnley,Nick,Pope,GK,1,90,0,0,0.0,0.0,0.0,0.0,Nick Pope,4
+109,Burnley,Dwight,McNeil,M,1,90,0,0,2.0,1.0,0.03,0.06,Dwight McNeil,4
+110,Arsenal,Pierre-Emerick,Aubameyang,F,1,90,1,0,4.0,1.0,0.57,0.06,Pierre-Emerick Aubameyang,4
+111,Arsenal,Alexandre,Lacazette,F,1,69,1,0,7.83,1.3,0.52,0.14,Alexandre Lacazette,4
+112,Arsenal,Bernd,Leno,GK,1,90,0,0,0.0,0.0,0.0,0.0,Bernd Leno,4
+113,Arsenal,Granit,Xhaka,M,1,90,0,0,1.0,3.0,0.02,0.09,Granit Xhaka,4
+114,Arsenal,Henrikh,Mkhitaryan,S,1,21,0,0,4.29,4.29,0.09,0.13,Henrikh Mkhitaryan,4
+115,Arsenal,Sead,Kolasinac,D,1,90,0,0,1.0,2.0,0.14,0.1,Sead Kolasinac,4
+116,Arsenal,Sokratis,,D,1,90,0,0,0.0,0.0,0.0,0.0,Sokratis,4
+117,Arsenal,Lucas,Torreira,M,1,65,0,0,1.38,2.77,0.02,0.13,Lucas Torreira,4
+118,Arsenal,David,Luiz,D,1,90,0,0,0.0,0.0,0.0,0.0,David Luiz,4
+119,Arsenal,Ainsley,Maitland-Niles,D,1,90,0,0,1.0,3.0,0.04,0.16,Ainsley Maitland-Niles,4
+120,Arsenal,Dani,Ceballos,S,1,25,0,0,7.2,7.2,0.05,0.04,Dani Ceballos,4
+121,Arsenal,Nicolas,Pepe,F,1,90,0,1,7.0,2.0,0.37,0.43,Nicolas Pepe,4
+122,Arsenal,Matteo,Guendouzi,M,1,90,0,1,2.0,1.0,0.12,0.39,Matteo Guendouzi,4
+123,Everton,Richarlison,,M,1,90,2,0,3.0,1.0,0.45,0.04,Richarlison,4
+124,Everton,Alex,Iwobi,M,1,78,1,0,1.15,1.15,0.44,0.04,Alex Iwobi,4
+125,Everton,Seamus,Coleman,D,1,90,0,0,1.0,1.0,0.17,0.04,Seamus Coleman,4
+126,Everton,Gylfi,Sigurdsson,M,1,90,0,1,2.0,5.0,0.11,0.65,Gylfi Sigurdsson,4
+127,Everton,Jordan,Pickford,GK,1,90,0,0,0.0,0.0,0.0,0.0,Jordan Pickford,4
+128,Everton,Fabian,Delph,M,1,90,0,0,0.0,0.0,0.0,0.0,Fabian Delph,4
+129,Everton,Moise,Kean,F,1,78,0,1,2.31,1.15,0.15,0.35,Moise Kean,4
+130,Everton,Michael,Keane,D,1,90,0,0,1.0,0.0,0.03,0.0,Michael Keane,4
+131,Everton,Lucas,Digne,D,1,90,0,1,1.0,2.0,0.01,0.08,Lucas Digne,4
+132,Everton,Andre,Gomes,M,1,90,0,0,0.0,1.0,0.0,0.07,Andre Gomes,4
+133,Everton,Dominic,Calvert-Lewin,S,1,12,0,0,7.5,0.0,0.03,0.0,Dominic Calvert-Lewin,4
+134,Everton,Yerry,Mina,D,1,90,0,0,3.0,0.0,0.11,0.0,Yerry Mina,4
+135,Everton,Bernard,,S,1,12,0,0,0.0,0.0,0.0,0.0,Bernard,4
+136,Crystal Palace,Jordan,Ayew,F,1,87,1,0,3.1,1.03,0.2,0.06,Jordan Ayew,4
+137,Crystal Palace,Mamadou,Sakho,S,1,10,0,0,0.0,0.0,0.0,0.0,Mamadou Sakho,4
+138,Crystal Palace,Joel,Ward,D,1,90,0,0,0.0,1.0,0.0,0.05,Joel Ward,4
+139,Crystal Palace,Wilfried,Zaha,F,1,90,0,0,2.0,1.0,0.08,0.09,Wilfried Zaha,4
+140,Crystal Palace,Martin,Kelly,D,1,80,0,0,0.0,0.0,0.0,0.0,Martin Kelly,4
+141,Crystal Palace,Cheikhou,Kouyate,M,1,90,0,0,6.0,1.0,0.35,0.02,Cheikhou Kouyate,4
+142,Crystal Palace,Christian,Benteke,S,1,3,0,0,30.0,0.0,0.05,0.0,Christian Benteke,4
+143,Crystal Palace,James,McArthur,M,1,90,0,0,2.0,2.0,0.41,0.12,James McArthur,4
+144,Crystal Palace,Gary,Cahill,D,1,90,0,0,1.0,0.0,0.07,0.0,Gary Cahill,4
+145,Crystal Palace,Patrick,van Aanholt,D,1,90,0,0,2.0,1.0,0.08,0.03,Patrick van Aanholt,4
+146,Crystal Palace,Jeffrey,Schlupp,F,1,85,0,0,3.18,2.12,0.1,0.36,Jeffrey Schlupp,4
+147,Crystal Palace,Andros,Townsend,S,1,5,0,0,0.0,18.0,0.0,0.05,Andros Townsend,4
+148,Crystal Palace,Vicente,Guaita,GK,1,90,0,0,0.0,0.0,0.0,0.0,Vicente Guaita,4
+149,Crystal Palace,Luka,Milivojevic,M,1,90,0,0,2.0,6.0,0.07,0.33,Luka Milivojevic,4
+150,Southampton,Jannik,Vestergaard,D,1,90,1,0,1.0,0.0,0.08,0.0,Jannik Vestergaard,4
+151,Southampton,Pierre-Emile,Hjbjerg,M,1,90,0,0,2.0,1.0,0.04,0.02,Pierre-Emile Hjbjerg,4
+152,Southampton,Shane,Long,S,1,26,0,0,0.0,0.0,0.0,0.0,Shane Long,4
+153,Southampton,Oriol,Romeu,M,1,90,0,0,1.0,1.0,0.02,0.02,Oriol Romeu,4
+154,Southampton,James,Ward-Prowse,M,1,90,0,0,0.0,1.0,0.0,0.03,James Ward-Prowse,4
+155,Southampton,Maya,Yoshida,S,1,11,0,0,0.0,0.0,0.0,0.0,Maya Yoshida,4
+156,Southampton,Cedric,Soares,D,1,90,0,0,0.0,0.0,0.0,0.0,Cedric Soares,4
+157,Southampton,Danny,Ings,F,1,79,0,0,2.28,1.14,0.05,0.09,Danny Ings,4
+158,Southampton,Sofiane,Boufal,M,1,73,0,0,3.7,1.23,0.13,0.45,Sofiane Boufal,4
+159,Southampton,Kevin,Danso,D,1,75,0,1,0.0,1.2,0.0,0.08,Kevin Danso,4
+160,Southampton,Angus,Gunn,GK,1,90,0,0,0.0,0.0,0.0,0.0,Angus Gunn,4
+161,Southampton,Jan,Bednarek,D,1,90,0,0,0.0,0.0,0.0,0.0,Jan Bednarek,4
+162,Southampton,Stuart,Armstrong,S,1,17,0,0,0.0,0.0,0.0,0.0,Stuart Armstrong,4
+163,Southampton,Che,Adams,F,1,64,0,0,1.41,1.41,0.45,0.02,Che Adams,4
+164,Newcastle United,Fabian,Schar,D,1,88,1,0,2.05,0.0,0.58,0.0,Fabian Schar,4
+165,Newcastle United,Yoshinori,Muto,S,1,5,0,0,18.0,0.0,0.08,0.0,Yoshinori Muto,4
+166,Newcastle United,Joelinton,,F,1,90,0,0,2.0,1.0,0.11,0.08,Joelinton,4
+167,Newcastle United,Federico,Fernandez,S,1,2,0,0,0.0,0.0,0.0,0.0,Federico Fernandez,4
+168,Newcastle United,Jamaal,Lascelles,D,1,90,0,0,0.0,1.0,0.0,0.03,Jamaal Lascelles,4
+169,Newcastle United,Paul,Dummett,D,1,90,0,0,1.0,0.0,0.01,0.0,Paul Dummett,4
+170,Newcastle United,Emil,Krafth,D,1,81,0,0,0.0,0.0,0.0,0.0,Emil Krafth,4
+171,Newcastle United,Javier,Manquillo,S,1,9,0,0,0.0,0.0,0.0,0.0,Javier Manquillo,4
+172,Newcastle United,Christian,Atsu,M,1,85,0,0,1.06,3.18,0.03,0.16,Christian Atsu,4
+173,Newcastle United,Isaac,Hayden,M,1,90,0,1,2.0,1.0,0.04,0.42,Isaac Hayden,4
+174,Newcastle United,Jetro,Willems,D,1,90,0,0,1.0,0.0,0.01,0.0,Jetro Willems,4
+175,Newcastle United,Martin,Dubravka,GK,1,90,0,0,0.0,0.0,0.0,0.0,Martin Dubravka,4
+176,Newcastle United,Sean,Longstaff,M,1,90,0,0,2.0,3.0,0.05,0.19,Sean Longstaff,4
+177,Newcastle United,Miguel,Almiron,M,1,90,0,0,1.0,1.0,0.13,0.03,Miguel Almiron,4
+178,Brighton,Pascal,Gro,S,1,12,0,0,0.0,0.0,0.0,0.0,Pascal Gro,4
+179,Brighton,Glenn,Murray,S,1,19,0,0,0.0,0.0,0.0,0.0,Glenn Murray,4
+180,Brighton,Martin,Montoya,M,1,90,0,0,0.0,1.0,0.0,0.1,Martin Montoya,4
+181,Brighton,Mat,Ryan,GK,1,90,0,0,0.0,0.0,0.0,0.0,Mat Ryan,4
+182,Brighton,Neal,Maupay,F,1,70,0,0,1.29,1.29,0.1,0.33,Neal Maupay,4
+183,Brighton,Bernardo,,M,1,71,0,0,0.0,1.27,0.0,0.3,Bernardo,4
+184,Brighton,Lewis,Dunk,D,1,90,0,0,0.0,0.0,0.0,0.0,Lewis Dunk,4
+185,Brighton,Solly,March,F,1,90,0,0,1.0,1.0,0.05,0.06,Solly March,4
+186,Brighton,Davy,Propper,M,1,90,0,0,1.0,0.0,0.02,0.0,Davy Propper,4
+187,Brighton,Dale,Stephens,M,1,90,0,0,0.0,0.0,0.0,0.0,Dale Stephens,4
+188,Brighton,Dan,Burn,D,1,90,0,0,0.0,0.0,0.0,0.0,Dan Burn,4
+189,Brighton,Leandro,Trossard,F,1,78,0,0,3.46,0.0,0.69,0.0,Leandro Trossard,4
+190,Brighton,Adam,Webster,D,1,90,0,0,0.0,0.0,0.0,0.0,Adam Webster,4
+191,Brighton,Aaron,Connolly,S,1,20,0,0,0.0,0.0,0.0,0.0,Aaron Connolly,4
+192,West Ham,Sebastien,Haller,F,1,90,1,0,4.0,0.0,1.13,0.0,Sebastien Haller,4
+193,West Ham,Andriy,Yarmolenko,M,1,74,1,0,3.65,2.43,0.19,0.17,Andriy Yarmolenko,4
+194,West Ham,Angelo,Ogbonna,D,1,90,0,0,0.0,0.0,0.0,0.0,Angelo Ogbonna,4
+195,West Ham,Mark,Noble,M,1,88,0,0,0.0,1.02,0.0,0.04,Mark Noble,4
+196,West Ham,Manuel,Lanzini,M,1,90,0,0,4.0,4.0,0.52,0.1,Manuel Lanzini,4
+197,West Ham,Carlos,Sanchez,S,1,2,0,0,0.0,0.0,0.0,0.0,Carlos Sanchez,4
+198,West Ham,Lukasz,Fabianski,GK,1,90,0,0,0.0,0.0,0.0,0.0,Lukasz Fabianski,4
+199,West Ham,Felipe,Anderson,M,1,90,0,0,3.0,3.0,0.14,0.29,Felipe Anderson,4
+200,West Ham,Robert,Snodgrass,S,1,16,0,0,5.63,5.63,0.13,0.02,Robert Snodgrass,4
+201,West Ham,Arthur,Masuaku,D,1,90,0,1,0.0,2.0,0.0,0.95,Arthur Masuaku,4
+202,West Ham,Pablo,Fornals,S,1,1,0,0,0.0,0.0,0.0,0.0,Pablo Fornals,4
+203,West Ham,Issa,Diop,D,1,90,0,0,2.0,0.0,0.09,0.0,Issa Diop,4
+204,West Ham,Declan,Rice,M,1,90,0,0,1.0,0.0,0.02,0.0,Declan Rice,4
+205,West Ham,Ryan,Fredericks,D,1,90,0,0,0.0,1.0,0.0,0.06,Ryan Fredericks,4
+206,Watford,Will,Hughes,M,1,74,1,0,1.22,1.22,0.37,0.12,Will Hughes,4
+207,Watford,Craig,Cathcart,D,1,90,0,0,0.0,0.0,0.0,0.0,Craig Cathcart,4
+208,Watford,Gerard,Deulofeu,S,1,5,0,0,0.0,0.0,0.0,0.0,Gerard Deulofeu,4
+209,Watford,Tom,Cleverley,M,1,90,0,0,3.0,2.0,0.16,0.12,Tom Cleverley,4
+210,Watford,Daryl,Janmaat,M,1,90,0,0,1.0,0.0,0.02,0.0,Daryl Janmaat,4
+211,Watford,Ben,Foster,GK,1,90,0,0,0.0,0.0,0.0,0.0,Ben Foster,4
+212,Watford,Craig,Dawson,D,1,90,0,0,2.0,0.0,0.13,0.0,Craig Dawson,4
+213,Watford,Andre,Gray,F,1,85,0,0,1.06,0.0,0.1,0.0,Andre Gray,4
+214,Watford,Nathaniel,Chalobah,S,1,16,0,0,5.63,0.0,0.08,0.0,Nathaniel Chalobah,4
+215,Watford,Roberto,Pereyra,M,1,90,0,0,1.0,3.0,0.05,0.14,Roberto Pereyra,4
+216,Watford,Isaac,Success,S,1,16,0,0,5.63,5.63,0.09,0.05,Isaac Success,4
+217,Watford,Christian,Kabasele,D,1,90,0,0,0.0,0.0,0.0,0.0,Christian Kabasele,4
+218,Watford,Abdoulaye,Doucoure,M,1,74,0,0,1.22,0.0,0.04,0.0,Abdoulaye Doucoure,4
+219,Watford,Kiko,Femenia,M,1,90,0,0,1.0,1.0,0.06,0.04,Kiko Femenia,4
+220,Bournemouth,Callum,Wilson,F,1,90,1,0,1.0,2.0,0.31,0.11,Callum Wilson,4
+221,Bournemouth,Steve,Cook,D,1,90,0,0,0.0,0.0,0.0,0.0,Steve Cook,4
+222,Bournemouth,Andrew,Surman,S,1,8,0,0,0.0,0.0,0.0,0.0,Andrew Surman,4
+223,Bournemouth,Joshua,King,F,1,82,0,0,0.0,2.2,0.0,0.03,Joshua King,4
+224,Bournemouth,Jordon,Ibe,S,1,23,0,0,0.0,0.0,0.0,0.0,Jordon Ibe,4
+225,Bournemouth,Nathan,Ake,D,1,90,0,0,0.0,0.0,0.0,0.0,Nathan Ake,4
+226,Bournemouth,Adam,Smith,D,1,67,0,0,1.34,0.0,0.06,0.0,Adam Smith,4
+227,Bournemouth,Dominic,Solanke,S,1,23,0,0,3.91,0.0,0.02,0.0,Dominic Solanke,4
+228,Bournemouth,Ryan,Fraser,M,1,90,0,1,2.0,3.0,0.07,0.38,Ryan Fraser,4
+229,Bournemouth,Jefferson,Lerma,M,1,90,0,0,1.0,0.0,0.02,0.0,Jefferson Lerma,4
+230,Bournemouth,Harry,Wilson,M,1,67,0,0,1.34,1.34,0.05,0.03,Harry Wilson,4
+231,Bournemouth,Aaron,Ramsdale,GK,1,90,0,0,0.0,0.0,0.0,0.0,Aaron Ramsdale,4
+232,Bournemouth,Philip,Billing,M,1,90,0,0,1.0,0.0,0.02,0.0,Philip Billing,4
+233,Bournemouth,Chris,Mepham,D,1,90,0,0,0.0,0.0,0.0,0.0,Chris Mepham,4
+234,Aston Villa,Jack,Grealish,M,1,90,0,0,2.0,0.0,0.03,0.0,Jack Grealish,4
+235,Aston Villa,Neil,Taylor,D,1,90,0,0,0.0,0.0,0.0,0.0,Neil Taylor,4
+236,Aston Villa,Tyrone,Mings,D,1,90,0,0,0.0,0.0,0.0,0.0,Tyrone Mings,4
+237,Aston Villa,Keinan,Davis,S,1,30,0,0,0.0,3.0,0.0,0.01,Keinan Davis,4
+238,Aston Villa,Tom,Heaton,GK,1,90,0,0,0.0,0.0,0.0,0.0,Tom Heaton,4
+239,Aston Villa,Jota,,F,1,60,0,0,0.0,1.5,0.0,0.03,Jota,4
+240,Aston Villa,Frederic,Guilbert,D,1,90,0,0,2.0,1.0,0.03,0.04,Frederic Guilbert,4
+241,Aston Villa,Douglas,Luiz,M,1,72,0,0,1.25,0.0,0.06,0.0,Douglas Luiz,4
+242,Aston Villa,Bjorn,Engels,D,1,90,0,0,0.0,0.0,0.0,0.0,Bjorn Engels,4
+243,Aston Villa,Conor,Hourihane,S,1,18,0,0,0.0,10.0,0.0,0.04,Conor Hourihane,4
+244,Aston Villa,Trezeguet,,F,1,55,0,0,4.91,0.0,0.1,0.0,Trezeguet,4
+245,Aston Villa,John,McGinn,M,1,90,0,0,0.0,2.0,0.0,0.05,John McGinn,4
+246,Aston Villa,Wesley,,F,1,86,0,0,2.09,0.0,0.07,0.0,Wesley,4
+247,Aston Villa,Henri,Lansbury,S,1,4,0,0,0.0,0.0,0.0,0.0,Henri Lansbury,4
+248,Norwich,Josip,Drmic,S,1,10,0,0,9.0,0.0,0.48,0.0,Josip Drmic,4
+249,Norwich,Tim,Krul,GK,1,90,0,0,0.0,0.0,0.0,0.0,Tim Krul,4
+250,Norwich,Moritz,Leitner,M,1,90,0,0,0.0,1.0,0.0,0.03,Moritz Leitner,4
+251,Norwich,Emiliano,Buendia,M,1,90,0,0,0.0,0.0,0.0,0.0,Emiliano Buendia,4
+252,Norwich,Ibrahim,Amadou,S,1,55,0,0,0.0,0.0,0.0,0.0,Ibrahim Amadou,4
+253,Norwich,Max,Aarons,D,1,90,0,0,1.0,1.0,0.02,0.47,Max Aarons,4
+254,Norwich,Ben,Godfrey,D,1,90,0,0,0.0,0.0,0.0,0.0,Ben Godfrey,4
+255,Norwich,Jamal,Lewis,D,1,90,0,0,0.0,1.0,0.0,0.02,Jamal Lewis,4
+256,Norwich,Tom,Trybull,M,1,90,0,0,0.0,0.0,0.0,0.0,Tom Trybull,4
+257,Norwich,Kenny,McLean,S,1,9,0,0,0.0,20.0,0.0,0.5,Kenny McLean,4
+258,Norwich,Marco,Stiepermann,M,1,80,0,0,2.25,0.0,0.1,0.0,Marco Stiepermann,4
+259,Norwich,Todd,Cantwell,M,1,81,0,0,2.22,0.0,0.51,0.0,Todd Cantwell,4
+260,Norwich,Teemu,Pukki,F,1,90,0,0,2.0,0.0,0.05,0.0,Teemu Pukki,4
+261,Norwich,Christoph,Zimmermann,D,1,35,0,0,0.0,0.0,0.0,0.0,Christoph Zimmermann,4
