@@ -6,6 +6,10 @@ Users have restrictions on budget, team formation, and transfers. Users compete 
 prestigious being overall-rank; a leaderboard with all 6 million+ users competing for glory and prizes.
 
 ![Image of workflow](https://github.com/CS-UCR/cs105-prj-phase3-yeah-nah/blob/master/mindmap.png)
+
+### Note
+Project originally created for CS105 at UC Riverside, instructed by Professor Mariam Salloum. Project partner Ivannovi Jordan credited for web crawling implementation. Project will inform team management and player FPL points predictive algorithms for 2021 FPL season.
+
 ## Phase 1
 ### Data Obtained
 * API: https://fantasy.premierleague.com/api/bootstrap-static/ (API for FPL data)
